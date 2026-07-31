@@ -1,16 +1,19 @@
-## Hi there 👋
+# Привет! Я Екатерина 👋
 
-<!--
-**Ekaterina416b/Ekaterina416b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Учусь в МГТУ им. Н. Э. Баумана на направлении «Информационная безопасность автоматизированных систем» (кафедра ИУ8). Совмещаю учебу с разносторонней практикой, развиваюсь в сфере ИБ.
 
-Here are some ideas to get you started:
+### Практический опыт работы
+* **АО «КНИРТИ» (Госкорпорация «Ростех»)** — Младший инженер по информационной безопасности.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Учебные проекты
+* **[Docker-приложение с CI/CD](https://github.com)** — Контейнеризация приложения и автоматизация сборки образов/запуска контейнеров через GitHub Actions (lab08 workflow).
+* **[Банковская система с транзакциями](https://github.com)** — Разработка логики транзакций на C++ с использованием принципов ООП, STL и обработки исключений.
+* **[Реализация паттерна Factory](https://github.com)** — Проект с демонстрацией применения фабричного паттерна проектирования на практике.
+
+### Сертификаты и достижения
+* **Участник соревнований по кибербезопасности "cyberARea"** совместно с клубом ISCRA и МГТУ им. Баумана:
+
+<img src="cyberarea_ctf_certificate.png" width="600" alt="cyberARea CTF Certificate">
+
+---
+Связаться со мной: [@Ekaterina_Karpina](https://t.me) | karpina.katia@mail.ru
