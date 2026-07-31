@@ -11,9 +11,7 @@
 * **[Реализация паттерна Factory](https://github.com)** — Проект с демонстрацией применения фабричного паттерна проектирования на практике.
 
 ### Сертификаты и достижения
-* **Участник соревнований по кибербезопасности "cyberARea"** совместно с клубом ISCRA и МГТУ им. Баумана:
-
-<img src="cyberarea_ctf_certificate.png" width="600" alt="cyberARea CTF Certificate">
+* **Участник соревнований по кибербезопасности "cyberARea"** совместно с клубом ISCRA и МГТУ им. Баумана.
 
 ---
 Связаться со мной: [@Ekaterina_Karpina](https://t.me) | karpina.katia@mail.ru
